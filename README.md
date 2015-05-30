@@ -1,1 +1,1 @@
-# telegram-pybot-nutrition
+# telegram-pybot-emoticons
