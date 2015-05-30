@@ -4,7 +4,7 @@ import plugintypes
 
 class EmoticonsPlugin(plugintypes.TelegramPlugin):
     patterns = {
-        "^!lod": "lod"
+        "^!lod": "lod",
         "^!lolidk": "lolidk"
     }
 
