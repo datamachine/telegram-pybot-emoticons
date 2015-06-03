@@ -3,7 +3,7 @@
     "description": "Print stupid emoticons",
     "version": "1.1",
     "default_enable": ["Emoticons"],
-    "homepage": "https://github.com/datamachine/telegram-pybot-emoticons",
-    "repo": "https://github.com/datamachine/telegram-pybot-emoticons.git",
+    "homepage": "https://github.com/datamachine/telex-emoticons",
+    "repo": "https://github.com/datamachine/telex-emoticons.git",
     "branch": "master"
 }
