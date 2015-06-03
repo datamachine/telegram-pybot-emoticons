@@ -1,8 +1,8 @@
 # coding=utf-8
-from telegrambot.plugin import TelegramPlugin
+from telex.plugin import TelexPlugin
 
 
-class EmoticonsPlugin(TelegramPlugin):
+class EmoticonsPlugin(TelexPlugin):
     patterns = {
         "^!lod": "lod",
         "^!lolidk": "lolidk"
