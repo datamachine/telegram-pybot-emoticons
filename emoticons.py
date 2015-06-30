@@ -1,4 +1,4 @@
-# coding=utf-8
+# -*- coding: utf8 -*-
 from telex.plugin import TelexPlugin
 
 
@@ -13,7 +13,13 @@ class EmoticonsPlugin(TelexPlugin):
     ]
 
     def lod(self, msg, matches):
-        return "ಠ_ಠ"
+        """
+        ಠ_ಠ
+        """
+        return b'\xe0\xb2\xa0_\xe0\xb2\xa0'
 
     def lolidk(self, msg, matches):
-        return "¯\_(ツ)_/¯"
+        """
+        ¯\_(ツ)_/¯
+        """
+        return b'\xc2\xaf\\_(\xe3\x83\x84)_/\xc2\xaf'
